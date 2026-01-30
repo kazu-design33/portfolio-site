@@ -273,7 +273,7 @@ a {
   background-position: center 10%;
 }
 
-.thumb-comingsoon {
+/* .thumb-comingsoon {
   position: relative;
 }
 
@@ -286,6 +286,12 @@ a {
   font-weight: 700;
   letter-spacing: .08em;
   color: rgba(0, 0, 0, .35);
+} */
+
+.thumb-shopify{
+  background-image: url(img/shopify-thumb.jpg);
+   background-size: cover;
+  background-position: center 10%;
 }
 
 .work-card__title {

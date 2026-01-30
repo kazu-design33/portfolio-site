@@ -273,23 +273,9 @@ a {
   background-position: center 10%;
 }
 
-/* .thumb-comingsoon {
-  position: relative;
-}
-
-.thumb-comingsoon::after {
-  content: "COMING SOON";
-  position: absolute;
-  inset: 0;
-  display: grid;
-  place-items: center;
-  font-weight: 700;
-  letter-spacing: .08em;
-  color: rgba(0, 0, 0, .35);
-} */
 
 .thumb-shopify{
-  background-image: url(img/shopify-thumb.jpg);
+  background-image:url("img/shopify-thumb.jpg");
    background-size: cover;
   background-position: center 10%;
 }
